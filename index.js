@@ -32,7 +32,9 @@ bot.on("message", async (msg) => {
 𝐓𝐡𝐞𝐧 𝐈𝐟 𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐭𝐡𝐢𝐬 𝐦𝐨𝐯𝐢𝐞 𝐢 𝐚𝐦 𝐚𝐥𝐬𝐨 𝐩𝐫𝐨𝐯𝐢𝐝𝐞𝐝 🍿🍿🥰🥰 
 𝐓𝐡𝐢𝐬 𝐁𝐨𝐭 𝐌𝐚𝐢𝐧𝐭𝐚𝐢𝐧 𝐁𝐲 @arghadipde
 Also Check My Website
-ARMOVIE26.ONLINE`);
+ARMOVIE26.ONLINE
+Thank You For Using
+This Bot`);
       return;
     }
 
